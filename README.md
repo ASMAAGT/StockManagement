@@ -1,7 +1,7 @@
 # StockManagement
 Hey There 👋 !         
 this is a Stock Mangement project using JInternalFrame and JDesktopPanel  👩‍💻             
-In this project i have used the Kcontrolls for a modern UI design ( Big thank to K33pToo 👏) 🤩
+In this project i have used the Kcontrolls for a modern UI design ( Big thank to K33pToo 👏) 🤩     
 You can Download jar file from here : https://github.com/k33ptoo/KControls/blob/master/dist/KControls-2.0.jar 
 
 ![kbutton](https://user-images.githubusercontent.com/105730569/213475265-b9ecfbe8-2a1c-445a-9891-675015d4136e.png)
